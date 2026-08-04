@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "title": "Kaios | Live website templates",
+    "description": "Browse working website templates, test every page live, and contact Kaios to make one yours."
+  },
+  "nav": {
+    "home": "Home",
+    "templates": "Templates",
+    "howItWorks": "How it works",
+    "contact": "Contact to buy",
+    "menu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Ready-built websites",
+    "title": "Begin with a website that already works.",
+    "body": "Browse complete templates, test them live, then shape the right one around your business.",
+    "browse": "Browse templates",
+    "watch": "Watch the build",
+    "frameLabel": "A template assembling into a complete page"
+  },
+  "categories": {
+    "title": "Choose the structure that fits.",
+    "body": "Start with the job your website needs to do. Categories grow with the collection.",
+    "view": "View category"
+  },
+  "featured": {
+    "title": "Built to be tested, not imagined.",
+    "body": "Hold a preview to load the working site. Open any template for the full responsive view.",
+    "viewAll": "View all templates"
+  },
+  "catalog": {
+    "eyebrow": "Template catalog",
+    "title": "Find your starting point.",
+    "body": "Filter the collection, inspect the real page, and compare the details that matter.",
+    "filters": "Filters",
+    "all": "All",
+    "category": "Category",
+    "tags": "Tags",
+    "price": "Price",
+    "anyPrice": "Any price",
+    "under500": "Under $500",
+    "from500": "$500 and above",
+    "clear": "Clear filters",
+    "results": "templates",
+    "loading": "Checking for the latest templates",
+    "fallback": "Showing the starter collection while live data is unavailable.",
+    "empty": "No templates match these filters.",
+    "emptyBody": "Clear a filter or try a different category."
+  },
+  "card": {
+    "from": "From",
+    "previewHint": "Hold to preview",
+    "live": "Live preview",
+    "placeholder": "Preview URL ready for your real template",
+    "details": "View details",
+    "newTab": "Open live demo in new tab"
+  },
+  "detail": {
+    "back": "Back to templates",
+    "loading": "Loading template details",
+    "about": "About this template",
+    "stack": "Built with",
+    "responsive": "Responsive live preview",
+    "responsiveBody": "Switch widths and scroll the actual working page.",
+    "desktop": "Desktop",
+    "tablet": "Tablet",
+    "mobile": "Mobile",
+    "buy": "Contact to buy",
+    "related": "More in this category",
+    "notFound": "This template is not available."
+  },
+  "how": {
+    "title": "From browse to handoff.",
+    "browseTitle": "Find the right base",
+    "browseBody": "Filter by category, price, or the tools already used.",
+    "previewTitle": "Test the real page",
+    "previewBody": "Scroll the live demo and check its responsive behavior.",
+    "contactTitle": "Plan the fit",
+    "contactBody": "Send your requirements. Kaios will confirm the template and next steps."
+  },
+  "contact": {
+    "title": "Tell us what you need.",
+    "body": "Share the template and the changes you have in mind. You will receive a direct reply.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone or Zalo (optional)",
+    "template": "Template of interest",
+    "message": "What should this site do for you?",
+    "send": "Send inquiry",
+    "sending": "Sending inquiry",
+    "success": "Your inquiry is in. Kaios will reply directly.",
+    "error": "The inquiry could not be sent. Check your connection and try again.",
+    "close": "Close contact form",
+    "nameError": "Enter at least 2 characters.",
+    "emailError": "Enter a valid email address.",
+    "messageError": "Tell us a little more in at least 10 characters.",
+    "generalOption": "General project"
+  },
+  "footer": {
+    "line": "Working templates for businesses that need to move.",
+    "catalog": "Browse templates",
+    "admin": "Owner login",
+    "rights": "Kaios. All rights reserved."
+  },
+  "admin": {
+    "brand": "Kaios admin",
+    "templates": "Templates",
+    "inquiries": "Inquiries",
+    "newTemplate": "New template",
+    "signOut": "Sign out",
+    "loading": "Checking access",
+    "emptyTemplates": "No templates yet. Add the first catalog item.",
+    "emptyInquiries": "No inquiries yet.",
+    "edit": "Edit",
+    "delete": "Delete",
+    "deleteConfirm": "Delete this template? This cannot be undone.",
+    "published": "Published",
+    "draft": "Draft",
+    "save": "Save template",
+    "saving": "Saving",
+    "saved": "Template saved.",
+    "upload": "Upload image",
+    "uploadHelp": "WebP, AVIF, PNG, or JPEG up to 5 MB.",
+    "loginTitle": "Owner access",
+    "loginBody": "Sign in with the Firebase account configured for this store.",
+    "password": "Password",
+    "signIn": "Sign in",
+    "signingIn": "Signing in",
+    "invalidLogin": "Email or password is incorrect.",
+    "firebaseMissing": "Add the Firebase environment variables to enable owner access."
+  }
+}

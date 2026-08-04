@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "title": "Kaios | Mẫu website chạy thật",
+    "description": "Khám phá mẫu website hoàn chỉnh, thử trực tiếp từng trang và liên hệ Kaios để tùy chỉnh theo nhu cầu."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "templates": "Mẫu website",
+    "howItWorks": "Quy trình",
+    "contact": "Liên hệ mua",
+    "menu": "Mở menu",
+    "closeMenu": "Đóng menu"
+  },
+  "hero": {
+    "eyebrow": "Website dựng sẵn",
+    "title": "Bắt đầu bằng website đã chạy tốt.",
+    "body": "Xem mẫu hoàn chỉnh, thử trực tiếp rồi tùy chỉnh lựa chọn phù hợp với công việc của bạn.",
+    "browse": "Xem mẫu website",
+    "watch": "Xem cách lắp ghép",
+    "frameLabel": "Một mẫu website được lắp ghép thành trang hoàn chỉnh"
+  },
+  "categories": {
+    "title": "Chọn cấu trúc đúng với mục tiêu.",
+    "body": "Bắt đầu từ việc website cần làm. Danh mục sẽ mở rộng cùng bộ sưu tập.",
+    "view": "Xem danh mục"
+  },
+  "featured": {
+    "title": "Hãy thử trực tiếp, đừng chỉ hình dung.",
+    "body": "Giữ vào khung xem trước để tải website thật. Mở trang chi tiết để kiểm tra đầy đủ các kích thước.",
+    "viewAll": "Xem tất cả mẫu"
+  },
+  "catalog": {
+    "eyebrow": "Kho mẫu website",
+    "title": "Tìm điểm bắt đầu phù hợp.",
+    "body": "Lọc bộ sưu tập, xem trang chạy thật và so sánh những chi tiết quan trọng.",
+    "filters": "Bộ lọc",
+    "all": "Tất cả",
+    "category": "Danh mục",
+    "tags": "Thẻ",
+    "price": "Mức giá",
+    "anyPrice": "Mọi mức giá",
+    "under500": "Dưới 500 USD",
+    "from500": "Từ 500 USD",
+    "clear": "Xóa bộ lọc",
+    "results": "mẫu",
+    "loading": "Đang kiểm tra các mẫu mới nhất",
+    "fallback": "Đang hiển thị bộ mẫu khởi đầu vì dữ liệu trực tiếp chưa sẵn sàng.",
+    "empty": "Không có mẫu phù hợp với bộ lọc.",
+    "emptyBody": "Hãy xóa bớt bộ lọc hoặc chọn danh mục khác."
+  },
+  "card": {
+    "from": "Từ",
+    "previewHint": "Giữ để xem thử",
+    "live": "Đang xem trực tiếp",
+    "placeholder": "Khung chờ đường dẫn mẫu website thật",
+    "details": "Xem chi tiết",
+    "newTab": "Mở bản chạy thử trong tab mới"
+  },
+  "detail": {
+    "back": "Quay lại kho mẫu",
+    "loading": "Đang tải thông tin mẫu website",
+    "about": "Về mẫu website này",
+    "stack": "Công nghệ sử dụng",
+    "responsive": "Xem trực tiếp trên nhiều kích thước",
+    "responsiveBody": "Chuyển đổi chiều rộng và cuộn trên trang đang hoạt động.",
+    "desktop": "Máy tính",
+    "tablet": "Máy tính bảng",
+    "mobile": "Điện thoại",
+    "buy": "Liên hệ mua",
+    "related": "Mẫu khác cùng danh mục",
+    "notFound": "Mẫu website này hiện không khả dụng."
+  },
+  "how": {
+    "title": "Từ lựa chọn đến bàn giao.",
+    "browseTitle": "Tìm nền tảng phù hợp",
+    "browseBody": "Lọc theo danh mục, mức giá hoặc công nghệ đã dùng.",
+    "previewTitle": "Thử trên trang thật",
+    "previewBody": "Cuộn bản chạy thử và kiểm tra cách trang thích ứng.",
+    "contactTitle": "Trao đổi nhu cầu",
+    "contactBody": "Gửi yêu cầu. Kaios sẽ xác nhận mẫu phù hợp và bước tiếp theo."
+  },
+  "contact": {
+    "title": "Cho Kaios biết bạn cần gì.",
+    "body": "Gửi tên mẫu và những thay đổi mong muốn. Bạn sẽ nhận được phản hồi trực tiếp.",
+    "name": "Họ tên",
+    "email": "Email",
+    "phone": "Số điện thoại hoặc Zalo (không bắt buộc)",
+    "template": "Mẫu website quan tâm",
+    "message": "Website này cần giúp bạn làm gì?",
+    "send": "Gửi yêu cầu",
+    "sending": "Đang gửi yêu cầu",
+    "success": "Kaios đã nhận yêu cầu và sẽ phản hồi trực tiếp.",
+    "error": "Chưa thể gửi yêu cầu. Hãy kiểm tra kết nối và thử lại.",
+    "close": "Đóng biểu mẫu liên hệ",
+    "nameError": "Vui lòng nhập ít nhất 2 ký tự.",
+    "emailError": "Vui lòng nhập email hợp lệ.",
+    "messageError": "Vui lòng chia sẻ thêm với ít nhất 10 ký tự.",
+    "generalOption": "Dự án khác"
+  },
+  "footer": {
+    "line": "Mẫu website chạy thật cho những công việc cần tiến nhanh.",
+    "catalog": "Xem mẫu website",
+    "admin": "Đăng nhập quản trị",
+    "rights": "Kaios. Bảo lưu mọi quyền."
+  },
+  "admin": {
+    "brand": "Quản trị Kaios",
+    "templates": "Mẫu website",
+    "inquiries": "Yêu cầu liên hệ",
+    "newTemplate": "Thêm mẫu",
+    "signOut": "Đăng xuất",
+    "loading": "Đang kiểm tra quyền truy cập",
+    "emptyTemplates": "Chưa có mẫu nào. Hãy thêm mục đầu tiên.",
+    "emptyInquiries": "Chưa có yêu cầu liên hệ.",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "deleteConfirm": "Xóa mẫu website này? Thao tác không thể hoàn tác.",
+    "published": "Đã đăng",
+    "draft": "Bản nháp",
+    "save": "Lưu mẫu",
+    "saving": "Đang lưu",
+    "saved": "Đã lưu mẫu website.",
+    "upload": "Tải ảnh lên",
+    "uploadHelp": "WebP, AVIF, PNG hoặc JPEG, tối đa 5 MB.",
+    "loginTitle": "Quyền truy cập của chủ cửa hàng",
+    "loginBody": "Đăng nhập bằng tài khoản Firebase đã cấu hình cho cửa hàng.",
+    "password": "Mật khẩu",
+    "signIn": "Đăng nhập",
+    "signingIn": "Đang đăng nhập",
+    "invalidLogin": "Email hoặc mật khẩu chưa đúng.",
+    "firebaseMissing": "Thêm biến môi trường Firebase để bật quyền quản trị."
+  }
+}
